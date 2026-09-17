@@ -1,4 +1,10 @@
 # carioca-store-database
 Projeto acadêmico de banco de dados para gerenciamento de vendas e estoque, desenvolvido com PostgreSQL e Docker.
+
+
+
 A ideia era fazer um sistema que automatiza para um pequeno empresário a entrada e saída de seus custos, vendas, funcionários, produtos, fornecedores e a maneira como tudo isso se conecta...
+
+
+
 Ou seja, uma solução ideal, prática e automatizada ao invés de usar tudo na "mão"...
